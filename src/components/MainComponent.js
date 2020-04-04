@@ -16,7 +16,7 @@ const mapStateToProps = state => {
 		partners: state.partners,
 		promotions: state.promotions
 	};
-}
+};
 class Main extends Component {
 
 	render() {
